@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514464958 source:c:\workarea\testcodeblocks\main.cpp
+	<stdbool.h>
+	"sample.h"
+	<iostream>
+	<fstream>
+
+1468230752 c:\program files (x86)\digilent\waveformssdk\samples\c\sample.h
+	<stdio.h>
+	<stdlib.h>
+	"../../inc/dwf.h"
+	"/Library/Frameworks/dwf.framework/Headers/dwf.h"
+	<digilent/waveforms/dwf.h>
+	<windows.h>
+	<unistd.h>
+	<sys/time.h>
+
+1499417872 c:\program files (x86)\digilent\waveformssdk\inc\dwf.h
+
