@@ -5,7 +5,7 @@
 	<iostream>
 	<fstream>
 
-1468230752 c:\program files (x86)\digilent\waveformssdk\samples\c\sample.h
+1468227152 c:\program files (x86)\digilent\waveformssdk\samples\c\sample.h
 	<stdio.h>
 	<stdlib.h>
 	"../../inc/dwf.h"
@@ -15,5 +15,11 @@
 	<unistd.h>
 	<sys/time.h>
 
-1499417872 c:\program files (x86)\digilent\waveformssdk\inc\dwf.h
+1499414272 c:\program files (x86)\digilent\waveformssdk\inc\dwf.h
+
+1514962145 source:c:\workarea\git\digilent\main.cpp
+	<stdbool.h>
+	"sample.h"
+	<iostream>
+	<fstream>
 
